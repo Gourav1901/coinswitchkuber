@@ -1,0 +1,19 @@
+.parentCard {
+  /* border: 1px solid red; */
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  gap: 4rem;
+}
+
+.rightCard {
+  /* border: 1px solid green; */
+  margin-top: 5rem;
+  width: 30%;
+}
+
+.paraTag {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(68, 68, 68);
+}
